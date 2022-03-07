@@ -1,0 +1,2 @@
+# newthings
+pyhton strings, list
